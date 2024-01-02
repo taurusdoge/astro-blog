@@ -1,3 +1,5 @@
+Available here: https://zubkou-dev.netlify.app/
+
 # Astro Starter Kit: Minimal
 
 ```sh
